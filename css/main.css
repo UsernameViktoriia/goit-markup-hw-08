@@ -781,6 +781,7 @@ img {
 @media screen and (min-width: 1200px) {
   .webstudio-socials {
     margin-left: 70px;
+    margin-bottom: 0;
     text-align: left;
   }
 }
